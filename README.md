@@ -1,4 +1,4 @@
-# 💻 Sinh viên Kỹ thuật Phần mềm · Lập trình Frontend · Kiểm thử phần mềm
+# 💻 Software Engineering Student · Frontend Developer · Software Tester
 
 <p align="center"> <a href="https://github.com/LySonYenNgoc"> <img src="https://img.shields.io/badge/GitHub-LySonYenNgoc-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/lysonyen-ngoc-0b4873425/"> <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:yenngoc3560@gmail.com"> <img src="https://img.shields.io/badge/Gmail-yenngoc3560-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
 
@@ -7,22 +7,21 @@
 ## 👩‍💻 Về tôi
 
 ```yaml
-họ_tên:     Lý Sơn Yến Ngọc
-chuyên_ngành: Công nghệ Thông tin — Kỹ thuật Phần mềm
-trường:     HUFLIT
-đang_học:   Phát triển Web, REST API, Cơ sở dữ liệu, Kiểm thử phần mềm
-sở_thích:   Phát triển Frontend · Kiểm thử tự động · Kỹ thuật Phần mềm
-sẵn_sàng:   Sẵn sàng thực tập toàn thời gian / bán thời gian
+Name:     Lý Sơn Yến Ngọc
+education: Information Technology — Software Engineering
+learning: Web Development, REST APIs, Databases, Software Testing
+interests: Frontend Development · Automation Testing · Software Engineering
+available:   Sẵn sàng thực tập toàn thời gian / bán thời gian
 ```
 
-* 🎓 Sinh viên năm 3 ngành **Công nghệ Thông tin – Kỹ thuật Phần mềm tại HUFLIT**
-* 💻 Có kinh nghiệm phát triển **Web Frontend** với ReactJS, JavaScript, HTML, CSS và Bootstrap
-* 🔌 Có kiến thức về **REST API, JSON và tích hợp API**
-* 🧪 Có kinh nghiệm **Kiểm thử thủ công và Kiểm thử tự động**
-* 🤖 Thực hành kiểm thử tự động với **Selenium WebDriver & NUnit**
-* 🗄️ Có kiến thức làm việc với **SQL Server, MySQL, MongoDB và Firebase**
-* 🔧 Sử dụng **Git/GitHub, Visual Studio, VS Code và SonarCloud**
-* 🚀 Luôn chủ động học hỏi, cải thiện khả năng giải quyết vấn đề và phát triển kỹ năng **Kỹ thuật Phần mềm**
+ 🎓 Sinh viên năm 3 ngành **Công nghệ Thông tin – Kỹ thuật Phần mềm tại HUFLIT
+ 💻 Có kinh nghiệm phát triển **Web Frontend** với ReactJS, JavaScript, HTML, CSS và Bootstrap
+ 🔌 Có kiến thức về **REST API, JSON và tích hợp API
+ 🧪 Có kinh nghiệm **Kiểm thử thủ công và Kiểm thử tự động
+ 🤖 Thực hành kiểm thử tự động với **Selenium WebDriver & NUnit
+ 🗄️ Có kiến thức làm việc với **SQL Server, MySQL, MongoDB và Firebase
+ 🔧 Sử dụng **Git/GitHub, Visual Studio, VS Code và SonarCloud
+ 🚀 Luôn chủ động học hỏi, cải thiện khả năng giải quyết vấn đề và phát triển kỹ năng **Kỹ thuật Phần mềm
 
 ---
 
