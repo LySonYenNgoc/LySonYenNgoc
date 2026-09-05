@@ -1,10 +1,18 @@
 # 💻 Software Engineering Student · Frontend Developer · Software Tester
 
 <p align="center">
+  <a href="https://github.com/LySonYenNgoc">
+    <img src="https://img.shields.io/badge/GitHub-LySonYenNgoc-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/lysonyen-ngoc-0b4873425/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+<p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineering-Student-181717?style=for-the-badge">
   <img src="https://img.shields.io/badge/ReactJS-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Software-Testing-4B8BBE?style=for-the-badge">
 </p>
+
 
 ---
 
@@ -16,6 +24,7 @@ education:  Information Technology — Software Engineering
 university: HUFLIT
 learning:   Web Development, REST APIs, Databases, Software Testing
 interests:  Frontend Development · Automation Testing · Software Engineering
+available: Sẵn sàng thực tập toàn thời gian/ bán thời gian
 ```
 
 * 🎓 Sinh viên năm 3 ngành **Công nghệ Thông tin – Kỹ thuật Phần mềm tại HUFLIT**
@@ -30,20 +39,23 @@ interests:  Frontend Development · Automation Testing · Software Engineering
 ---
 
 ## 🛠️ Kỹ năng kỹ thuật
+## 🛠️ Kỹ năng kỹ thuật
 
-| Lĩnh vực     | Công nghệ                                                                                      |
-| ------------ | ---------------------------------------------------------------------------------------------- |
-| 💻 Frontend  | ReactJS, JavaScript, HTML5, CSS3, Bootstrap, Responsive Web Design                             |
-| 🔌 API       | REST API, JSON, API Integration                                                                |
-| 🖥️ Backend  | ASP.NET MVC, ASP.NET Core, C#, Node.js, Express.js                                             |
-| 🧪 Testing   | Manual Testing, Test Case Design, Automation Testing, Selenium WebDriver, NUnit, Bug Reporting |
-| 🗄️ Database | SQL Server, MySQL, MongoDB, Firebase                                                           |
-| 🎨 UI/UX     | Figma                                                                                          |
-| 🔧 Tools     | Git, GitHub, Visual Studio, VS Code, SonarCloud                                                |
-| 🤖 AI Tools  | ChatGPT, Gemini, NotebookLM, Google AI Studio                                                  |
+| **Lĩnh vực** | **Công nghệ** | **Mức độ** |
+|---|---|---|
+| 💻 Frontend | ReactJS, JavaScript, HTML5, CSS3, Bootstrap | ⭐⭐⭐⭐ |
+| 🧪 Testing | Manual Testing, Test Case Design, Selenium WebDriver, NUnit | ⭐⭐⭐⭐ |
+| 🖥️ Backend | C#, ASP.NET Core, ASP.NET MVC, Node.js, Express.js | ⭐⭐⭐ |
+| 🔌 API | REST API, JSON, API Integration | ⭐⭐⭐ |
+| 🗄️ Database | SQL Server, MySQL, MongoDB, Firebase | ⭐⭐⭐ |
+| 🎨 UI/UX | Figma, Responsive Web Design | ⭐⭐⭐ |
+| 🔧 Tools | Git, GitHub, Visual Studio, VS Code, SonarCloud | ⭐⭐⭐⭐ |
+| 🤖 AI Tools | ChatGPT, Gemini, NotebookLM, Google AI Studio | ⭐⭐⭐⭐ |
 
 ---
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,cs,dotnet,nodejs,express,mongodb,mysql,git,github,vscode,visualstudio,figma&perline=8" />
+</p>
 ## 🚀 Dự án nổi bật
 
 ### 📱 Phone Store Website
@@ -112,26 +124,6 @@ E-commerce clothing website developed with a four-member team.
 
 ## 🧪 Software Testing
 
-Mình đặc biệt quan tâm đến **Software Quality & Testing** và đã thực hành:
-
-```text
-Manual Testing
-      ↓
-Test Scenario Design
-      ↓
-Test Case Design
-      ↓
-Functional Testing
-      ↓
-Automation Testing
-      ↓
-Selenium WebDriver
-      ↓
-NUnit
-      ↓
-Bug Reporting
-```
-
 Trong dự án Phone Store, mình đã thực hiện **124 automated test cases** với Selenium WebDriver và NUnit, đạt tỷ lệ pass **81.45%**.
 
 ---
@@ -168,15 +160,8 @@ Trong dự án Phone Store, mình đã thực hiện **124 automated test cases*
 
 ---
 
-## 📫 Liên hệ
 
-<p align="center">
-  <a href="https://github.com/LySonYenNgoc">
-    <img src="https://img.shields.io/badge/GitHub-LySonYenNgoc-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/lysonyen-ngoc-0b4873425/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+
   <a href="mailto:yenngoc3560@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yenngoc3560-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
