@@ -1,15 +1,6 @@
 # 💻 Software Engineering Student · Frontend Developer · Software Tester
 
-<p align="center">
-  <a href="https://github.com/LySonYenNgoc">
-    <img src="https://img.shields.io/badge/GitHub-LySonYenNgoc-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/lysonyen-ngoc-0b4873425/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LySonYenNgoc&layout=compact&theme=transparent" />
-</p>
+<p align="center"> <a href="https://github.com/LySonYenNgoc"> <img src="https://img.shields.io/badge/GitHub-LySonYenNgoc-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/lysonyen-ngoc-0b4873425/"> <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:yenngoc3560@gmail.com"> <img src="https://img.shields.io/badge/Gmail-yenngoc3560-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
 
 
 ---
