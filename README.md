@@ -8,9 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-Student-181717?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ReactJS-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Software-Testing-4B8BBE?style=for-the-badge">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LySonYenNgoc&layout=compact&theme=transparent" />
 </p>
 
 
@@ -148,17 +146,7 @@ Trong dự án Phone Store, mình đã thực hiện **124 automated test cases*
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LySonYenNgoc&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LySonYenNgoc&layout=compact&theme=transparent" />
-</p>
-
----
 
 
 
