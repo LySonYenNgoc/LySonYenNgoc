@@ -5,6 +5,7 @@
 
 ---
 
+
 ## 👩‍💻 Về tôi
 
 ```yaml
@@ -27,7 +28,7 @@ available: Sẵn sàng thực tập toàn thời gian/ bán thời gian
 
 ---
 
-## 🛠️ Kỹ năng kỹ thuật
+
 ## 🛠️ Kỹ năng kỹ thuật
 
 | **Lĩnh vực** | **Công nghệ** | **Mức độ** |
@@ -43,7 +44,7 @@ available: Sẵn sàng thực tập toàn thời gian/ bán thời gian
 
 ---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,cs,dotnet,nodejs,express,mongodb,mysql,git,github,vscode,visualstudio,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,cs,nodejs,express,mongodb,mysql,git,github,vscode,visualstudio,figma&perline=8" />
 </p>
 ## 🚀 Dự án nổi bật
 
