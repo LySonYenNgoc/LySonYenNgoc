@@ -1,152 +1,150 @@
-# 💻 Software Engineering Student · Frontend Developer · Software Tester
+# 💻 Sinh viên Kỹ thuật Phần mềm · Lập trình Frontend · Kiểm thử phần mềm
 
 <p align="center"> <a href="https://github.com/LySonYenNgoc"> <img src="https://img.shields.io/badge/GitHub-LySonYenNgoc-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/lysonyen-ngoc-0b4873425/"> <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:yenngoc3560@gmail.com"> <img src="https://img.shields.io/badge/Gmail-yenngoc3560-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
 
-
 ---
-
 
 ## 👩‍💻 Về tôi
 
 ```yaml
-name:       Lý Sơn Yến Ngọc
-education:  Information Technology — Software Engineering
-university: HUFLIT
-learning:   Web Development, REST APIs, Databases, Software Testing
-interests:  Frontend Development · Automation Testing · Software Engineering
-available: Sẵn sàng thực tập toàn thời gian/ bán thời gian
+họ_tên:     Lý Sơn Yến Ngọc
+chuyên_ngành: Công nghệ Thông tin — Kỹ thuật Phần mềm
+trường:     HUFLIT
+đang_học:   Phát triển Web, REST API, Cơ sở dữ liệu, Kiểm thử phần mềm
+sở_thích:   Phát triển Frontend · Kiểm thử tự động · Kỹ thuật Phần mềm
+sẵn_sàng:   Sẵn sàng thực tập toàn thời gian / bán thời gian
 ```
 
 * 🎓 Sinh viên năm 3 ngành **Công nghệ Thông tin – Kỹ thuật Phần mềm tại HUFLIT**
-* 💻 Có kinh nghiệm phát triển **Frontend Web** với ReactJS, JavaScript, HTML, CSS và Bootstrap
-* 🔌 Có kiến thức về **REST API, JSON và API Integration**
-* 🧪 Có kinh nghiệm **Manual Testing & Automation Testing**
+* 💻 Có kinh nghiệm phát triển **Web Frontend** với ReactJS, JavaScript, HTML, CSS và Bootstrap
+* 🔌 Có kiến thức về **REST API, JSON và tích hợp API**
+* 🧪 Có kinh nghiệm **Kiểm thử thủ công và Kiểm thử tự động**
 * 🤖 Thực hành kiểm thử tự động với **Selenium WebDriver & NUnit**
 * 🗄️ Có kiến thức làm việc với **SQL Server, MySQL, MongoDB và Firebase**
 * 🔧 Sử dụng **Git/GitHub, Visual Studio, VS Code và SonarCloud**
-* 🚀 Luôn chủ động học hỏi, cải thiện khả năng giải quyết vấn đề và phát triển kỹ năng Software Engineering
+* 🚀 Luôn chủ động học hỏi, cải thiện khả năng giải quyết vấn đề và phát triển kỹ năng **Kỹ thuật Phần mềm**
 
 ---
-
 
 ## 🛠️ Kỹ năng kỹ thuật
 
-| **Lĩnh vực** | **Công nghệ** | **Mức độ** |
-|---|---|---|
-| 💻 Frontend | ReactJS, JavaScript, HTML5, CSS3, Bootstrap | ⭐⭐⭐⭐ |
-| 🧪 Testing | Manual Testing, Test Case Design, Selenium WebDriver, NUnit | ⭐⭐⭐⭐ |
-| 🖥️ Backend | C#, ASP.NET Core, ASP.NET MVC, Node.js, Express.js | ⭐⭐⭐ |
-| 🔌 API | REST API, JSON, API Integration | ⭐⭐⭐ |
-| 🗄️ Database | SQL Server, MySQL, MongoDB, Firebase | ⭐⭐⭐ |
-| 🎨 UI/UX | Figma, Responsive Web Design | ⭐⭐⭐ |
-| 🔧 Tools | Git, GitHub, Visual Studio, VS Code, SonarCloud | ⭐⭐⭐⭐ |
-| 🤖 AI Tools | ChatGPT, Gemini, NotebookLM, Google AI Studio | ⭐⭐⭐⭐ |
+| **Lĩnh vực**      | **Công nghệ**                                                    | **Mức độ** |
+| ----------------- | ---------------------------------------------------------------- | ---------- |
+| 💻 Frontend       | ReactJS, JavaScript, HTML5, CSS3, Bootstrap                      | ⭐⭐⭐⭐       |
+| 🧪 Kiểm thử       | Kiểm thử thủ công, Thiết kế Test Case, Selenium WebDriver, NUnit | ⭐⭐⭐⭐       |
+| 🖥️ Backend       | C#, ASP.NET Core, ASP.NET MVC, Node.js, Express.js               | ⭐⭐⭐        |
+| 🔌 API            | REST API, JSON, Tích hợp API                                     | ⭐⭐⭐        |
+| 🗄️ Cơ sở dữ liệu | SQL Server, MySQL, MongoDB, Firebase                             | ⭐⭐⭐        |
+| 🎨 UI/UX          | Figma, Thiết kế Web Responsive                                   | ⭐⭐⭐        |
+| 🔧 Công cụ        | Git, GitHub, Visual Studio, VS Code, SonarCloud                  | ⭐⭐⭐⭐       |
+| 🤖 Công cụ AI     | ChatGPT, Gemini, NotebookLM, Google AI Studio                    | ⭐⭐⭐⭐       |
 
 ---
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,cs,nodejs,express,mongodb,mysql,git,github,vscode,visualstudio,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,mysql,vscode,visualstudio,figma&perline=8" />
 </p>
+
 ## 🚀 Dự án nổi bật
 
-### 📱 Phone Store Website
+### 📱 Website Cửa hàng Điện thoại
 
 > `ASP.NET Core` · `Razor Pages` · `HTML5` · `CSS3` · `JavaScript` · `Selenium` · `NUnit`
 
-**Role:** Frontend Developer & Tester
-**Timeline:** 01/2026 – 04/2026
+**Vai trò:** Lập trình viên Frontend & Kiểm thử phần mềm
+**Thời gian:** 01/2026 – 04/2026
 
-Website thương mại điện tử được phát triển bởi team 4 thành viên trong 3 tháng.
+Website thương mại điện tử được phát triển bởi nhóm 4 thành viên trong 3 tháng.
 
-**Frontend Development**
+**Phát triển Frontend**
 
-* Developed interfaces and key features for **Customer & Admin**
-* Implemented Product Details, Shopping Cart, Checkout and Order Management
-* Worked with HTML5, CSS3 and JavaScript
+* Phát triển giao diện và các chức năng chính cho **Khách hàng & Quản trị viên**
+* Xây dựng các chức năng Chi tiết sản phẩm, Giỏ hàng, Thanh toán và Quản lý đơn hàng
+* Sử dụng HTML5, CSS3 và JavaScript
 
-**Software Testing**
+**Kiểm thử phần mềm**
 
-* Designed and executed **124 test cases**
-* Performed UI Automation Testing using **Selenium WebDriver & NUnit**
-* Achieved **101 passed / 23 failed**
-* **Pass Rate: 81.45%**
-* Covered validation, business flows and error handling
+* Thiết kế và thực thi **124 test case**
+* Thực hiện Kiểm thử tự động giao diện bằng **Selenium WebDriver & NUnit**
+* Đạt kết quả **101 test case Pass / 23 test case Fail**
+* **Tỷ lệ Pass: 81,45%**
+* Kiểm thử các trường hợp validation, luồng nghiệp vụ và xử lý lỗi
 
 ---
 
-### 🏠 Hostel Management System Website
+### 🏠 Website Hệ thống Quản lý Nhà trọ
 
 > `ReactJS` · `Vite` · `Ant Design` · `Node.js` · `Express.js` · `MongoDB` · `REST API`
 
-**Role:** Frontend Developer
-**Timeline:** 09/2025 – 12/2025
+**Vai trò:** Lập trình viên Frontend
+**Thời gian:** 09/2025 – 12/2025
 
-Hệ thống quản lý nhà trọ được phát triển bởi team 4 thành viên trong 3 tháng.
+Hệ thống quản lý nhà trọ được phát triển bởi nhóm 4 thành viên trong 3 tháng.
 
-**Frontend Development**
+**Phát triển Frontend**
 
-* Analyzed requirements and developed core frontend features
-* Designed UI/UX using **Figma**
-* Built interfaces using **ReactJS, Vite & Ant Design**
-* Developed Home Page, User Management and Tenant Management
-* Implemented Online Payment interface
-* Connected frontend and backend through **RESTful APIs**
+* Phân tích yêu cầu và phát triển các chức năng Frontend chính
+* Thiết kế giao diện UI/UX bằng **Figma**
+* Xây dựng giao diện với **ReactJS, Vite & Ant Design**
+* Phát triển Trang chủ, Quản lý người dùng và Quản lý người thuê
+* Xây dựng giao diện Thanh toán trực tuyến
+* Kết nối Frontend và Backend thông qua **RESTful API**
 
 ---
 
-### 👕 Clothing Store
+### 👕 Website Cửa hàng Quần áo
 
 > `ASP.NET Core MVC` · `C#` · `SQL Server` · `HTML` · `CSS` · `JavaScript`
 
-**Role:** Frontend Developer & Tester
-**Timeline:** 05/2026 – 08/2026
+**Vai trò:** Lập trình viên Frontend & Kiểm thử phần mềm
+**Thời gian:** 05/2026 – 08/2026
 
-E-commerce clothing website developed with a four-member team.
+Website thương mại điện tử về thời trang được phát triển bởi nhóm 4 thành viên.
 
-**Highlights**
+**Điểm nổi bật**
 
-* Developed both **Customer & Admin** interfaces
-* Implemented Product Details, Online Payment and Purchase Review
-* Worked with ASP.NET Core MVC and SQL Server
-* Designed and documented test cases
-* Participated in both frontend development and software testing
-
----
-
-## 🧪 Software Testing
-
-Trong dự án Phone Store, mình đã thực hiện **124 automated test cases** với Selenium WebDriver và NUnit, đạt tỷ lệ pass **81.45%**.
+* Phát triển giao diện **Khách hàng & Quản trị viên**
+* Xây dựng các chức năng Chi tiết sản phẩm, Thanh toán trực tuyến và Đánh giá sản phẩm
+* Làm việc với ASP.NET Core MVC và SQL Server
+* Thiết kế và xây dựng test case
+* Tham gia cả quá trình phát triển Frontend và kiểm thử phần mềm
 
 ---
 
-## 📜 Certifications
+## 🧪 Kiểm thử phần mềm
+
+Trong dự án Phone Store, mình đã thực hiện **124 test case tự động** với Selenium WebDriver và NUnit, đạt tỷ lệ Pass **81,45%**.
+
+---
+
+## 📜 Chứng chỉ
 
 🏆 **Google AI Professional Certificate — 2026**
 
 ---
 
-## 🤝 Activities
+## 🤝 Hoạt động
 
-### Youth Union Executive Committee
+### Ban Chấp hành Đoàn
 
-**Secretary / Union Branch President**
+**Thư ký / Bí thư Chi đoàn**
 `2023 – 2027`
 
-* Collaborated with the Class Affairs Committee to organize student activities
-* Shared information and connected with students
-* Encouraged participation in academic, volunteer and school activities
-* Developed **leadership, communication, time management and teamwork skills**
+* Phối hợp với Ban Cán sự lớp để tổ chức các hoạt động dành cho sinh viên
+* Chia sẻ thông tin và kết nối với sinh viên trong lớp
+* Khuyến khích sinh viên tham gia các hoạt động học tập, tình nguyện và hoạt động của trường
+* Phát triển các kỹ năng **lãnh đạo, giao tiếp, quản lý thời gian và làm việc nhóm**
 
 ---
 
+## 💬 Liên hệ với tôi
 
-
-
-
+<p align="center">
   <a href="mailto:yenngoc3560@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yenngoc3560-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
-<p align="center">
-  💡 Always learning · Building · Testing · Improving
-</p>
+*Tôi luôn chào đón các cơ hội thực tập, hợp tác và học hỏi từ những người có kinh nghiệm.*
+
+**📧 Email:** [**yenngoc3560@gmail.com**](mailto:yenngoc3560@gmail.com)
