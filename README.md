@@ -139,12 +139,6 @@ Trong dự án Phone Store, mình đã thực hiện **124 test case tự độn
 
 ## 💬 Liên hệ với tôi
 
-<p align="center">
-  <a href="mailto:yenngoc3560@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-yenngoc3560-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
 *Tôi luôn chào đón các cơ hội thực tập, hợp tác và học hỏi từ những người có kinh nghiệm.*
 
 **📧 Email:** [**yenngoc3560@gmail.com**](mailto:yenngoc3560@gmail.com)
