@@ -14,21 +14,21 @@ interests: Frontend Development · Automation Testing · Software Engineering
 available:   Sẵn sàng thực tập toàn thời gian / bán thời gian
 ```
 
-🎓 Sinh viên năm 4 ngành Công nghệ Thông tin – Kỹ thuật Phần mềm tại HUFLIT
+ Sinh viên năm 4 ngành Công nghệ Thông tin – Kỹ thuật Phần mềm tại HUFLIT
 
-💻 Có kinh nghiệm phát triển Frontend Web với ReactJS, JavaScript, HTML, CSS và Bootstrap
+ Có kinh nghiệm phát triển Frontend Web với ReactJS, JavaScript, HTML, CSS và Bootstrap
 
-🔌 Có kiến thức về REST API, JSON và Tích hợp API
+ Có kiến thức về REST API, JSON và Tích hợp API
 
-🧪 Có kinh nghiệm Kiểm thử Thủ công & Kiểm thử Tự động
+ Có kinh nghiệm Kiểm thử Thủ công & Kiểm thử Tự động
 
-🤖 Thực hành kiểm thử tự động với Selenium WebDriver & NUnit
+ Thực hành kiểm thử tự động với Selenium WebDriver & NUnit
 
-🗄️ Có kiến thức làm việc với SQL Server, MySQL, MongoDB và Firebase
+ Có kiến thức làm việc với SQL Server, MySQL, MongoDB và Firebase
 
-🔧 Sử dụng Git/GitHub, Visual Studio, VS Code và SonarCloud
+ Sử dụng Git/GitHub, Visual Studio, VS Code và SonarCloud
 
-🚀 Luôn chủ động học hỏi, cải thiện khả năng giải quyết vấn đề và phát triển kỹ năng Kỹ thuật Phần mềm
+ Luôn chủ động học hỏi, cải thiện khả năng giải quyết vấn đề và phát triển kỹ năng Kỹ thuật Phần mềm
 
 ---
 
