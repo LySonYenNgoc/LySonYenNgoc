@@ -1,10 +1,10 @@
-# 💻 Software Engineering Student · Frontend Developer · Software Tester
+#  Software Engineering Student · Frontend Developer · Software Tester
 
 <p align="center"> <a href="https://github.com/LySonYenNgoc"> <img src="https://img.shields.io/badge/GitHub-LySonYenNgoc-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/lysonyen-ngoc-0b4873425/"> <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:yenngoc3560@gmail.com"> <img src="https://img.shields.io/badge/Gmail-yenngoc3560-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
 
 ---
 
-## 👩‍💻 Về tôi
+## Về tôi
 
 ```yaml
 Name:     Lý Sơn Yến Ngọc
@@ -14,7 +14,7 @@ interests: Frontend Development · Automation Testing · Software Engineering
 available:   Sẵn sàng thực tập toàn thời gian / bán thời gian
 ```
 
-🎓 Sinh viên năm 3 ngành Công nghệ Thông tin – Kỹ thuật Phần mềm tại HUFLIT
+🎓 Sinh viên năm 4 ngành Công nghệ Thông tin – Kỹ thuật Phần mềm tại HUFLIT
 
 💻 Có kinh nghiệm phát triển Frontend Web với ReactJS, JavaScript, HTML, CSS và Bootstrap
 
@@ -32,7 +32,7 @@ available:   Sẵn sàng thực tập toàn thời gian / bán thời gian
 
 ---
 
-## 🛠️ Kỹ năng kỹ thuật
+##  Kỹ năng kỹ thuật
 
 | **Lĩnh vực**      | **Công nghệ**                                                    | **Mức độ** |
 | ----------------- | ---------------------------------------------------------------- | ---------- |
@@ -51,9 +51,9 @@ available:   Sẵn sàng thực tập toàn thời gian / bán thời gian
   <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,mysql,vscode,visualstudio,figma&perline=8" />
 </p>
 
-## 🚀 Dự án nổi bật
+##  Dự án nổi bật
 
-### 📱 Website Cửa hàng Điện thoại
+###  Website Cửa hàng Điện thoại
 
 > `ASP.NET Core` · `Razor Pages` · `HTML5` · `CSS3` · `JavaScript` · `Selenium` · `NUnit`
 
@@ -78,7 +78,7 @@ Website thương mại điện tử được phát triển bởi nhóm 4 thành 
 
 ---
 
-### 🏠 Website Hệ thống Quản lý Nhà trọ
+###  Website Hệ thống Quản lý Nhà trọ
 
 > `ReactJS` · `Vite` · `Ant Design` · `Node.js` · `Express.js` · `MongoDB` · `REST API`
 
@@ -98,7 +98,7 @@ Hệ thống quản lý nhà trọ được phát triển bởi nhóm 4 thành v
 
 ---
 
-### 👕 Website Cửa hàng Quần áo
+###  Website Cửa hàng Quần áo
 
 > `ASP.NET Core MVC` · `C#` · `SQL Server` · `HTML` · `CSS` · `JavaScript`
 
@@ -117,19 +117,10 @@ Website thương mại điện tử về thời trang được phát triển b�
 
 ---
 
-## 🧪 Kiểm thử phần mềm
 
-Trong dự án Phone Store, mình đã thực hiện **124 test case tự động** với Selenium WebDriver và NUnit, đạt tỷ lệ Pass **81,45%**.
 
----
 
-## 📜 Chứng chỉ
-
-🏆 **Google AI Professional Certificate — 2026**
-
----
-
-## 🤝 Hoạt động
+##  Hoạt động
 
 ### Ban Chấp hành Đoàn
 
