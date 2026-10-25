@@ -36,14 +36,14 @@ available:   Sẵn sàng thực tập toàn thời gian / bán thời gian
 
 | **Lĩnh vực**      | **Công nghệ**                                                    | **Mức độ** |
 | ----------------- | ---------------------------------------------------------------- | ---------- |
-| 💻 Frontend       | ReactJS, JavaScript, HTML5, CSS3, Bootstrap                      | ⭐⭐⭐⭐       |
-| 🧪 Kiểm thử       | Kiểm thử thủ công, Thiết kế Test Case, Selenium WebDriver, NUnit | ⭐⭐⭐⭐       |
-| 🖥️ Backend       | C#, ASP.NET Core, ASP.NET MVC, Node.js, Express.js               | ⭐⭐⭐        |
-| 🔌 API            | REST API, JSON, Tích hợp API                                     | ⭐⭐⭐        |
-| 🗄️ Cơ sở dữ liệu | SQL Server, MySQL, MongoDB, Firebase                             | ⭐⭐⭐        |
-| 🎨 UI/UX          | Figma, Thiết kế Web Responsive                                   | ⭐⭐⭐        |
-| 🔧 Công cụ        | Git, GitHub, Visual Studio, VS Code, SonarCloud                  | ⭐⭐⭐⭐       |
-| 🤖 Công cụ AI     | ChatGPT, Gemini, NotebookLM, Google AI Studio                    | ⭐⭐⭐⭐       |
+|  Frontend       | ReactJS, JavaScript, HTML5, CSS3, Bootstrap                      | ⭐⭐⭐⭐       |
+|  Kiểm thử       | Kiểm thử thủ công, Thiết kế Test Case, Selenium WebDriver, NUnit | ⭐⭐⭐⭐       |
+|  Backend       | C#, ASP.NET Core, ASP.NET MVC, Node.js, Express.js               | ⭐⭐⭐        |
+|  API            | REST API, JSON, Tích hợp API                                     | ⭐⭐⭐        |
+|  Cơ sở dữ liệu | SQL Server, MySQL, MongoDB, Firebase                             | ⭐⭐⭐        |
+|  UI/UX          | Figma, Thiết kế Web Responsive                                   | ⭐⭐⭐        |
+|  Công cụ        | Git, GitHub, Visual Studio, VS Code, SonarCloud                  | ⭐⭐⭐⭐       |
+|  Công cụ AI     | ChatGPT, Gemini, NotebookLM, Google AI Studio                    | ⭐⭐⭐⭐       |
 
 ---
 
